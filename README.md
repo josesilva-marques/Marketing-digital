@@ -1,3 +1,3 @@
 # Marketing-digital
 
-Este repositório será para colocar meus estudos sobre marketing Digital.
+Este repositório será para colocar meus estudos sobre Marketing Digital.
